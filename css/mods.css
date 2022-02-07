@@ -1,0 +1,43 @@
+#current-mods img {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin-top: 30px;
+  border: 10px solid;
+  border-radius: 90px;
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+* {
+  background-color: #202225;
+}
+.srmod {
+  color: rgb(254, 92, 135);
+  font-weight: 500;
+  font-size: 1rem;
+}
+.mod-txt{
+  color: rgb(254, 142, 0);
+  font-weight: 500;
+  font-size: 1rem;
+}
+h2 {
+  text-align: center;
+  color: aliceblue;
+}
+
+a {
+  color: inherit;
+}
+.results {
+  color: aliceblue;
+  font-size: larger;
+}
+img {
+  width: 75px;
+  height: 75px;
+}
