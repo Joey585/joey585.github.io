@@ -3,10 +3,16 @@
   height: 100px;
   text-align: center;
   margin-top: 30px;
-  border: 10px solid;
+  border: 5px solid;
   border-radius: 90px;
 }
-
+#current-mods {
+  display: flex;
+  gap: 30px;
+}
+#current-mods {
+  color: aliceblue;
+}
 h1 {
   text-align: center;
   color: aliceblue;
@@ -20,7 +26,10 @@ h1 {
   font-weight: 500;
   font-size: 1rem;
 }
-.mod-txt{
+.admin {
+  color: rgb(2, 182, 156);;
+}
+.mod{
   color: rgb(254, 142, 0);
   font-weight: 500;
   font-size: 1rem;
@@ -41,3 +50,12 @@ img {
   width: 75px;
   height: 75px;
 }
+.final-note {
+  color: aliceblue;
+  visibility: hidden;
+}
+button {
+  font-size: larger;
+  color: aliceblue;
+}
+
