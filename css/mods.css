@@ -59,3 +59,16 @@ button {
   color: aliceblue;
 }
 
+.mod-border:hover{
+  animation-duration: 0.5s;
+  animation-name: press;
+}
+@keyframes press {
+  from {
+    border-width: 5px;
+  }
+  to {
+    border-width: 0;
+  }
+}
+
